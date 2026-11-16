@@ -13,7 +13,7 @@ The template is an empty app with the two shapes of code an app has:
 ## Requirements
 
 - ESP-IDF **v6.1** (`. ~/.espressif/v6.1/esp-idf/export.sh`).
-- Internet access to GitHub. The component manager fetches the SDK over HTTPS, with its submodules; both repositories are public, so no key is needed.
+- Internet access to GitHub. The component manager fetches the SDK over HTTPS, with its submodules; the SDK and the C5 firmware inside it are public, so no key is needed.
 
 ## Starting an app
 
